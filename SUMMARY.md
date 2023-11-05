@@ -1,3 +1,7 @@
 # Table of contents
 
-* [Software-Architecture-Fundamentals-1402-Sessions](README.md)
+* [Index](README.md)
+
+## Group 1
+
+* [Session 03](group-1/session-03.md)
